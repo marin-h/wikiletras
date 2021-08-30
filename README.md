@@ -10,4 +10,4 @@ En el año 2019, WikiLetras surge a partir de la iniciativa del Departamento de 
 WikiLetras utiliza datos de fuentes publicas y abiertas. La información es importada mediante archivos .CSV con la extensión [DataTransfer](https://www.mediawiki.org/wiki/Extension:Data_Transfer) y el script [mediawiki-csv-formatter](https://www.github.com/marin-h/mediawiki-csv-formatter).
 
 
-Wikiletras es un proyecto basado en ![mediawiki](https://img.shields.io/badge/mediawiki-based-red?style=flat)](https://www.mediawiki.org/wiki/MediaWiki) 
+Wikiletras es un proyecto basado en [mediawiki](https://www.mediawiki.org/wiki/MediaWiki) 
